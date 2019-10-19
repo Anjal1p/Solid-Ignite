@@ -1,0 +1,24 @@
+.Header {
+    box-shadow: 0 4px 3px rgba(0,0,0,.5);
+    margin-bottom: 1vh;
+    padding: 1vh;
+}
+
+.Header>.Left-Section {
+    float: left;
+}
+
+.Header>.Right-Section {
+    float: right;
+}
+
+.Header>.Right-Section> * {
+    float: left;
+    margin-right: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.Header>.Left-Section>.Solid-Paste:hover {
+    cursor: pointer;
+}

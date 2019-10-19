@@ -1,0 +1,13 @@
+textarea {
+    background: transparent;
+    font-family: monospace;
+    font-size: 14px;
+    outline: none;
+    border-width: 0;
+
+    color: #bababa;
+    flex: 2;
+
+    padding-left: 1vh;
+    padding-right: 1vh;
+}
